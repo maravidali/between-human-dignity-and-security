@@ -1,0 +1,13 @@
+{
+    "additional_stopwords_path": "data/additional_stopwords.txt",
+    "additional_topic_stopwords_path": "data/additional_topic_stopwords.txt",
+    "keep_stopwords_path": "data/keep_stopwords.txt",
+    "citizens full excel path": "data/citizens_text_analysis.xlsx",
+    "councilors full excel path": "data/councilors_text_analysis.xlsx",
+    "text analysis data excel path": "data/text_analysis_data_Q30.xls",
+    "councilors spelled excel path": "data/text_analysis_councilors_Q30.xls",
+    "stopwords excel path": "data/stopwords_GR.xlsx",
+    "immigrants populations excel path": "data/citizens (with imm_pop).xlsx",
+    "topic excel path": "data/text_analysis_topics.xlsx",
+    "normalization type": "stem"
+}

@@ -1,0 +1,81 @@
+---
+title: 'Between Human Dignity and Security: Identifying Citizen and Elite Preferences
+  and Concerns over Refugee Reception'
+output: html_document
+date: "2025-04-14"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Hello! 
+
+Welcome to the R Code of the "Between Human Dignity and Security: Identifying Citizen
+and Elite Preferences and Concerns over Refugee Reception" article.
+
+This code takes about XX hours to run from top to bottom and replicates the following figures:
+Figure_1, Figure_2, Figure_3, Figure_4, Figure_5, Figure_9, Figure_10, Figure_11, 
+Figure_14
+and Tables and Figures in Appendix A and B.
+
+# Set-up 
+
+Step 1. Creation of directory
+
+The replicator should begin by inserting the path to the project folder they have created between the quotation marks. 
+
+```{r set-path, include=FALSE}
+directory <- "~/setyourowndirectory"
+setwd(directory)
+```
+
+#Figure 1
+```{r figure1}
+source("Figure 1.R")
+```
+
+#Figure 2
+```{r figure2}
+source("Figure 2.R")
+```
+
+#Figure 3
+```{r figure3}
+source("Figure 3.R")
+```
+
+#Figure 4
+```{r figure4}
+source("Figure 4.R")
+```
+
+#Figure 5
+```{r figure5}
+source("Figure 5.R")
+```
+
+#Figures 9
+```{r figure9}
+source("Figure 9.R")
+```
+
+#Figures 10
+```{r figure10}
+source("Figure 10.R")
+```
+
+#Figures 11
+```{r figure11}
+source("Figure 11.R")
+```
+
+#Figures 14
+```{r figure14}
+source("Figure 14.R")
+```
+
+#Appendix
+```{r Appendix}
+source("Appendix_AandB.R")
+```
