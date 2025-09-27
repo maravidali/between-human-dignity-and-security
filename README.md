@@ -3,6 +3,9 @@
 **Replication Package for**  
 *“Between Human Dignity and Security: Identifying Citizen and Elite Preferences and Concerns over Refugee Reception”*
 
+📄 Published in *Comparative Political Studies*  
+🔗 DOI: [https://doi.org/10.1177/00104140251381741](https://doi.org/10.1177/00104140251381741)
+
 **Authors:**  
 Kristin Fabbe¹, Eleni Kyrkopoulou², Mara E. Vidali³
 
